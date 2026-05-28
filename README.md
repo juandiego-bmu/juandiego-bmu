@@ -10,7 +10,7 @@
 
 Soy un estudiante de **Ciberseguridad e Inteligencia Artificial en la Universidad de Málaga (UMA)** con una mentalidad muy práctica orientada al desarrollo seguro, el análisis de vulnerabilidades y el deep learning. Este verano estaré realizando la **Piscina en 42 Málaga** para consolidar mi formación en programación de sistemas a bajo nivel (C/Unix).
 
-Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. 4 veces campeón de Andalucía y 1 vez subcampeón de España. Diría que en algo me habrá ayudado el ajedrez en mi forma de pensar, detectar patrones y resolver problemas, o eso espero jajajaj. 
+Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. Competir al más alto nivel en ajedrez me ha dotado de una mentalidad rigurosa, analítica y estratégica, enseñándome a pensar varios movimientos por delante antes de escribir una sola línea de código.
 
 ---
 
@@ -43,16 +43,6 @@ Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. 4 veces 
 *   **Contribuciones Open Source**
     *   **OWASP Nettacker:** 2 Pull Requests fusionadas (*merged*) en su repositorio oficial.
     *   **The Honeynet Project:** Reporte ético de vulnerabilidades críticas en el código fuente (un *use-after-free* y un *memory leak*).
-
----
-
-### Actividad en GitHub / GitHub Activity
-
-<p align="left">
-  <img src="https://img.shields.io/github/stars/juandiego-bmu?style=flat-square&color=00D2FF&label=Estrellas%20totales" alt="Estrellas" />
-  <img src="https://img.shields.io/github/commit-activity/y/juandiego-bmu?style=flat-square&color=76B900&label=Commits%20este%20a%C3%B1o" alt="Commits" />
-  <img src="https://img.shields.io/github/followers/juandiego-bmu?style=flat-square&color=EE4C2C&label=Seguidores" alt="Seguidores" />
-</p>
 
 ---
 
