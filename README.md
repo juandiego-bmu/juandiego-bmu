@@ -10,7 +10,7 @@
 
 I am a **Cybersecurity and Artificial Intelligence student at the University of Málaga (UMA)** with a highly practical focus on secure development, vulnerability research, and deep learning. This summer, I will be participating in the **42 Málaga Piscine** to consolidate my systems programming skills at a low level (C/Unix).
 
-In addition to computer science, I am a **FIDE Chess Master (2300 ELO)**. Competing at the highest level in chess has provided me with a rigorous, analytical, and strategic mindset, teaching me to think several moves ahead before writing a single line of code.
+In addition to computer science, I am a **FIDE Chess Master (2300 ELO)**, a **4-time Champion of Andalusia**, and a **1-time Runner-up of Spain**. I'd say chess has helped me in some way with my way of thinking, pattern recognition, and problem-solving—or at least I hope so, haha.
 
 ---
 
@@ -63,6 +63,6 @@ In addition to computer science, I am a **FIDE Chess Master (2300 ELO)**. Compet
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://tryhackme.com/p/juan.diego.70898" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-3F1845?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-3F1845?style=for-the-badge&logo=trymeet-3F1845?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
