@@ -46,15 +46,12 @@ Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. 4 veces 
 
 ---
 
-### Estadísticas de GitHub / GitHub Stats
+### Actividad en GitHub / GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/juandiego-bmu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=juandiego-bmu&show_icons=true&theme=tokyonight&locale=es&border_radius=10" alt="Estadísticas de GitHub de Juan Diego" />
-  </a>
-  <a href="https://github.com/juandiego-bmu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandiego-bmu&layout=compact&theme=tokyonight&locale=es&border_radius=10" alt="Lenguajes más usados de Juan Diego" />
-  </a>
+<p align="left">
+  <img src="https://img.shields.io/github/stars/juandiego-bmu?style=flat-square&color=00D2FF&label=Estrellas%20totales" alt="Estrellas" />
+  <img src="https://img.shields.io/github/commit-activity/y/juandiego-bmu?style=flat-square&color=76B900&label=Commits%20este%20a%C3%B1o" alt="Commits" />
+  <img src="https://img.shields.io/github/followers/juandiego-bmu?style=flat-square&color=EE4C2C&label=Seguidores" alt="Seguidores" />
 </p>
 
 ---
