@@ -10,7 +10,7 @@
 
 Soy un estudiante de **Ciberseguridad e Inteligencia Artificial en la Universidad de Málaga (UMA)** con una mentalidad muy práctica orientada al desarrollo seguro, el análisis de vulnerabilidades y el deep learning. Este verano estaré realizando la **Piscina en 42 Málaga** para consolidar mi formación en programación de sistemas a bajo nivel (C/Unix).
 
-Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. Competir al más alto nivel en ajedrez me ha dotado de una mentalidad rigurosa, analítica y estratégica, enseñándome a pensar varios movimientos por delante antes de escribir una sola línea de código.
+Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. 4 veces campeón de Andalucía y 1 vez subcampeón de España. Diría que en algo me habrá ayudado el ajedrez en mi forma de pensar, detectar patrones y resolver problemas, o eso espero jajajaj. 
 
 ---
 
