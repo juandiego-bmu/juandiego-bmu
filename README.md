@@ -6,15 +6,22 @@
 
 ---
 
-### Sobre Mí / About Me
+### About Me
 
-Soy un estudiante de **Ciberseguridad e Inteligencia Artificial en la Universidad de Málaga (UMA)** con una mentalidad muy práctica orientada al desarrollo seguro, el análisis de vulnerabilidades y el deep learning. Este verano estaré realizando la **Piscina en 42 Málaga** para consolidar mi formación en programación de sistemas a bajo nivel (C/Unix).
+I am a **Cybersecurity and Artificial Intelligence student at the University of Málaga (UMA)** with a highly practical focus on secure development, vulnerability research, and deep learning. This summer, I will be participating in the **42 Málaga Piscine** to consolidate my systems programming skills at a low level (C/Unix).
 
-Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. Competir al más alto nivel en ajedrez me ha dotado de una mentalidad rigurosa, analítica y estratégica, enseñándome a pensar varios movimientos por delante antes de escribir una sola línea de código.
+In addition to computer science, I am a **FIDE Chess Master (2300 ELO)**. Competing at the highest level in chess has provided me with a rigorous, analytical, and strategic mindset, teaching me to think several moves ahead before writing a single line of code.
 
 ---
 
-### Tecnologías y Herramientas / Tech Stack
+### Experience
+
+*   **Tech Mentor at Google.org Cyber Bootcamp** (2026)
+    *   Trained and mentored 100+ students in cybersecurity fundamentals and practical security tools.
+
+---
+
+### Tech Stack
 
 <p align="left">
   <!-- Languages -->
@@ -32,21 +39,21 @@ Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. Competir
 
 ---
 
-### Proyectos y Contribuciones / Featured Projects
+### Featured Projects & Contributions
 
-*   **Music Popularity Predictor (3er Puesto Oracle Hackathon)**
-    *   Desarrollo de modelos de Machine Learning y Deep Learning en PyTorch para predecir la popularidad de temas musicales y detectar hits de verano mediante clasificación y regresión.
-*   **Keylogger Avanzado (C++ / Windows)**
-    *   Proyecto educativo y de testing de seguridad de bajo nivel en C++ para Windows, con técnicas de persistencia y envío automatizado de informes por correo electrónico.
-*   **Divulgación Responsable (Vulnerabilidad CVSS 8.7)**
-    *   Descubrimiento e informe ético de una vulnerabilidad de severidad alta en la infraestructura activa de una startup tecnológica.
-*   **Contribuciones Open Source**
-    *   **OWASP Nettacker:** 2 Pull Requests fusionadas (*merged*) en su repositorio oficial.
-    *   **The Honeynet Project:** Reporte ético de vulnerabilidades críticas en el código fuente (un *use-after-free* y un *memory leak*).
+*   **Music Popularity Predictor (3rd Place at Oracle Hackathon)**
+    *   Developed Machine Learning and Deep Learning models in PyTorch to predict music track popularity and detect summer hits using classification and regression techniques.
+*   **Advanced Keylogger (C++ / Windows)**
+    *   Educational and security testing low-level project in C++ for Windows, implementing persistence techniques and automated email reports.
+*   **Responsible Disclosure (CVSS 8.7 Vulnerability)**
+    *   Discovered and ethically reported a high-severity vulnerability in the active infrastructure of a tech startup.
+*   **Open Source Contributions**
+    *   **OWASP Nettacker:** 2 Pull Requests merged into the official repository.
+    *   **The Honeynet Project:** Ethically reported critical vulnerabilities in the source code (a use-after-free and a memory leak).
 
 ---
 
-### Conéctate Conmigo / Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/juan-diego-berm%C3%BAdez-ureba-735492339/" target="_blank">
@@ -59,5 +66,3 @@ Además de la informática, soy **Maestro FIDE de ajedrez (2300 ELO)**. Competir
     <img src="https://img.shields.io/badge/TryHackMe-3F1845?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
-
-<p align="center"><i>"Effective security is as much about people as it is about algorithms."</i></p>
