@@ -1,7 +1,7 @@
 # Juan Diego Bermúdez Ureba
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+AI+Student;42+M%C3%A1laga+Student;FIDE+Chess+Master+(2300+ELO)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+AI+Student;FIDE+Chess+Master+(2300+ELO)" alt="Typing SVG" />
 </p>
 
 ---
