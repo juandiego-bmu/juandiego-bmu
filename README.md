@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a **Cybersecurity and Artificial Intelligence student at the University of Málaga (UMA)** with a highly practical focus on secure development, vulnerability research, and deep learning. This summer, I will be participating in the **42 Málaga Piscine** to consolidate my systems programming skills at a low level (C/Unix).
+I am a **Cybersecurity and Artificial Intelligence student at the University of Málaga (UMA)** with a highly practical focus on secure development, vulnerability research, and deep learning.
 
 In addition to computer science, I am a **FIDE Chess Master (2300 ELO)**, a **4-time Champion of Andalusia**, and a **1-time Runner-up of Spain**. I'd say chess has helped me in some way with my way of thinking, pattern recognition, and problem-solving—or at least I hope so, haha.
 
